@@ -27,7 +27,7 @@ Aplicação desenvolvida em Java com Spring Boot que simula uma coleção de jog
 - Config 
 
 # Modelo de Domínio Utilizado
-
+![Diagrama ER](dslist-model.png)
 
 
 
